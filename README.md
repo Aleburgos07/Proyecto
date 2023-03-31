@@ -54,7 +54,7 @@ This project is a simple web page created using HTML and CSS. The purpose of thi
 
 
 
-You can view the live demo of the web page at this link: https://strong-hotteok-f50662.netlify.app/
+You can view the live demo of the web page at this link: https://entrarable-kataifi-52f41d.netlify.app
 
 
 
